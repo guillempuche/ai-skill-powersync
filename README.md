@@ -5,11 +5,11 @@ Build local-first, offline-capable TypeScript apps with PowerSync. Use when impl
 ## Install
 
 ```bash
-# Add marketplace
+# Add marketplace (uses repo slug)
 /plugin marketplace add guillempuche/ai-skill-powersync
 
-# Install plugin
-/plugin install ai-skill-powersync@guillempuche-ai-skill-powersync
+# Install plugin (plugin name is topic-only)
+/plugin install powersync@guillempuche-ai-skill-powersync
 ```
 
 ## Part of AI Standards

@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "ai-skill-powersync",
+      "name": "powersync",
       "source": "./"
     }
   ]
