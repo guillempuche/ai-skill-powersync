@@ -1,6 +1,6 @@
 # ai-skill-powersync
 
-Build local-first, offline-capable TypeScript apps with PowerSync. Use when implementing real-time sync between SQLite and backend databases (Postgres, MongoDB, MySQL, SQL Server). Covers schema definition, database setup, CRUD operations, React/Vue hooks, watch queries, and Kysely/Drizzle ORM integration.
+PowerSync TypeScript SDKs (web, React Native, Node) and sync rules for local-first apps. Use when adding PowerSync to a project, or writing or debugging code that uses @powersync/* packages or sync rules.
 
 ## Install
 
