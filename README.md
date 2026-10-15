@@ -12,6 +12,13 @@ The [`skills`](https://github.com/vercel-labs/skills) CLI installs into Codex, O
 npx skills add guillempuche/ai-skill-powersync
 ```
 
+### Codex CLI
+
+```bash
+codex plugin marketplace add guillempuche/ai-skill-powersync
+codex plugin add powersync@ai-skill-powersync
+```
+
 ### Claude Code
 
 ```bash
@@ -26,6 +33,12 @@ npx skills add guillempuche/ai-skill-powersync
 
 ```bash
 gemini skills install https://github.com/guillempuche/ai-skill-powersync.git --path skills/powersync
+```
+
+### Antigravity
+
+```bash
+agy plugin install https://github.com/guillempuche/ai-skill-powersync
 ```
 
 ### Manual
